@@ -1,0 +1,6 @@
+# Simulation output files
+*.vcd
+*.vvp
+
+# GTKWave session files (optional)
+*.gtkw
